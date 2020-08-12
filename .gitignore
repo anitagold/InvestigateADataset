@@ -1,0 +1,5 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*.zip
+investigate-a-dataset-template.ipynb/
+tmdb-movies.csv
